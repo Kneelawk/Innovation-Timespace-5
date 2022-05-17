@@ -3,11 +3,10 @@ filename = "bitsandchisels-2.6.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/q8MC5tW2/versions/2.6.8/bitsandchisels-2.6.8.jar"
 hash-format = "sha1"
 hash = "a632973972e44107d24be34c6ade9ad01519babc"
+url = "https://cdn.modrinth.com/data/q8MC5tW2/versions/2.6.8/bitsandchisels-2.6.8.jar"
 
-[update]
 [update.modrinth]
 mod-id = "q8MC5tW2"
 version = "7li5Sjbi"

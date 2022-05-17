@@ -3,11 +3,10 @@ filename = "expandedstorage-7.3.12+1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/psjeHi3j/versions/7.3.12+1.18.2-fabric/expandedstorage-7.3.12%2B1.18.2.jar"
 hash-format = "sha1"
 hash = "6e269d5bafbd9833a73daa7a3ad24e38f962f1dd"
+url = "https://cdn.modrinth.com/data/psjeHi3j/versions/7.3.12+1.18.2-fabric/expandedstorage-7.3.12%2B1.18.2.jar"
 
-[update]
 [update.modrinth]
 mod-id = "psjeHi3j"
 version = "NH47kAfA"

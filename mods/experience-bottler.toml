@@ -3,11 +3,10 @@ filename = "experiencebottler-1.18.2+build.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Uq7u1hDy/versions/1.18.2+build.1/experiencebottler-1.18.2%2Bbuild.1.jar"
 hash-format = "sha1"
 hash = "1508cee8b869aedf634697a6d633d43e9847c4da"
+url = "https://cdn.modrinth.com/data/Uq7u1hDy/versions/1.18.2+build.1/experiencebottler-1.18.2%2Bbuild.1.jar"
 
-[update]
 [update.modrinth]
 mod-id = "Uq7u1hDy"
 version = "bN9KBU7h"
