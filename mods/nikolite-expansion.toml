@@ -1,0 +1,13 @@
+name = "Nikolite Expansion"
+filename = "indrev-nikolite-1.0+1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iydzC46h/versions/1.0+1.18.1/indrev-nikolite-1.0+1.18.1.jar"
+hash-format = "sha1"
+hash = "393174ed160b84fc277e398944ad94f9850cc0ac"
+
+[update]
+[update.modrinth]
+mod-id = "iydzC46h"
+version = "Kar1f7sf"

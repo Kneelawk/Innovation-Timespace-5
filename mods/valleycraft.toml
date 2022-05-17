@@ -1,0 +1,13 @@
+name = "ValleyCraft"
+filename = "valley-craft-2.3-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8ZXLyutd/versions/2.3/valley-craft-2.3-1.18.2.jar"
+hash-format = "sha1"
+hash = "0322e7197cdf8a11832d9f0efb7a04470a6a96ff"
+
+[update]
+[update.modrinth]
+mod-id = "8ZXLyutd"
+version = "MaNNf6JG"
