@@ -110,6 +110,11 @@ hash = "4b1e0a700ce279e9f9ef0971e2a019f05512e9fbddc0c6eae506ec96ac7c8d13"
 metafile = true
 
 [[files]]
+file = "mods/conjuring.toml"
+hash = "c5d09d53ce43fabbf58e107c50c9103d018ef61a830b734d2819a1c3a2658303"
+metafile = true
+
+[[files]]
 file = "mods/consistencyplus.toml"
 hash = "1031e7ed69bc287123906d01291d53539c2d629210410fafbdc516a3ee6c028f"
 metafile = true
