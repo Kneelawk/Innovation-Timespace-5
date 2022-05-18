@@ -3,11 +3,10 @@ filename = "essential_commands-0.23.0-mc1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6VdDUivB/versions/0.23.0-mc1.18.2/essential_commands-0.23.0-mc1.18.2.jar"
 hash-format = "sha1"
 hash = "6da809906f45cb0f23e87f6cb3d987577e3658ad"
+url = "https://cdn.modrinth.com/data/6VdDUivB/versions/0.23.0-mc1.18.2/essential_commands-0.23.0-mc1.18.2.jar"
 
-[update]
 [update.modrinth]
 mod-id = "6VdDUivB"
 version = "iFuMlvXa"
