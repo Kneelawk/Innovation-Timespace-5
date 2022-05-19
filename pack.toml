@@ -1,12 +1,12 @@
 name = "Innovation Timespace 5"
 author = "Kneelawk"
-version = "0.1.1"
+version = "0.1.2"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5a6ae6f267be060fc30ea6ca38613012607fb5f709a84de60c1d7a4b8e20beea"
+hash = "1b3cbf9867bace5239b729c5638ecfb7201fc4a8b59f84f10a475b4d052709aa"
 
 [versions]
 minecraft = "1.18.2"
