@@ -9,6 +9,11 @@ file = "README.md"
 hash = "a0f4cd7cfc2b9e230a92d6f4cfc77150c1f22262e340d34f6c1c588b2de57ed8"
 
 [[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "33f7f07ca95861fb6615e5101dc54368fd6e4144b6055170e2aad6a00020b650"
+preserve = true
+
+[[files]]
 file = "mods/Botania-1.18.2-433-FABRIC-SNAPSHOT.jar"
 hash = "c71ba2287f336c525797f77649618d807c6c3991b3dc3d8aa990965000502bbb"
 
