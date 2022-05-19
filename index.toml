@@ -125,8 +125,14 @@ hash = "a7ece13fb0a84b47e243eb87352cc28775476952d04e0cf8be3d0842bec1905a"
 metafile = true
 
 [[files]]
-file = "mods/create-mc1.18.2_v0.4.1+563.jar"
-hash = "b96e86279c554d3d69424390487062d941661c4a1ef889b25a875efbdddd30a0"
+file = "mods/create-fabric.toml"
+hash = "15fcca6a823bd7a980eee0a57ecc48396b4b083e8165387700e62615af391c57"
+metafile = true
+
+[[files]]
+file = "mods/createplus.toml"
+hash = "84a26eada70c919e518bdc9f51f1df2b5283d98b6b1acd1d0ae33f162b5e26df"
+metafile = true
 
 [[files]]
 file = "mods/culinaire.toml"
