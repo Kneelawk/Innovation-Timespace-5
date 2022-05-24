@@ -1,13 +1,13 @@
 name = "TaterCart"
-filename = "tatercart-1.0.0-pre.2.jar"
+filename = "tatercart-1.0.0-pre.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GFWR9kLQ/versions/1.0.0-pre.2/tatercart-1.0.0-pre.2.jar"
+url = "https://cdn.modrinth.com/data/GFWR9kLQ/versions/1.0.0-pre.3/tatercart-1.0.0-pre.3.jar"
 hash-format = "sha1"
-hash = "a991d900ecc46f44f2fbc3ba5d89eac65e9ac5e4"
+hash = "47fb6b3993d912b5e75c1971fba98292672b00a2"
 
 [update]
 [update.modrinth]
 mod-id = "GFWR9kLQ"
-version = "agjUg4EL"
+version = "HseHRwD7"
