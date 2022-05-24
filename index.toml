@@ -225,6 +225,11 @@ hash = "3fb7541d91b2495bbcebd9bfac237c0539ec775759ddc7b295d123f35233c32c"
 metafile = true
 
 [[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "41bc0a9806bc79afa3dfc650fe251b85711a166b059c5a1273634afd0b5a792a"
+metafile = true
+
+[[files]]
 file = "mods/fwaystones.toml"
 hash = "c69cafa2a1579de40fa2b7c4dc278bd59ab26f3e2ea79a6e1ee26d7dcd4b2b78"
 metafile = true
@@ -379,6 +384,11 @@ metafile = true
 [[files]]
 file = "mods/quickcarpet.toml"
 hash = "b7c130136ac8d5907b2e058513c6435b041500a1a3a7d6aa9e2d673a9b1aec83"
+metafile = true
+
+[[files]]
+file = "mods/quilt-loading-screen.pw.toml"
+hash = "c378a76a8ed5b3fc693e9ed05210914dcfc2220f8fd82e5cf507000b2a71edc7"
 metafile = true
 
 [[files]]
