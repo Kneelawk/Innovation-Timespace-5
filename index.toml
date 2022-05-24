@@ -15,11 +15,11 @@ preserve = true
 
 [[files]]
 file = "mods/Botania-1.18.2-433-FABRIC-SNAPSHOT.jar"
-hash = "c71ba2287f336c525797f77649618d807c6c3991b3dc3d8aa990965000502bbb"
+hash = "48128683798350d8239c44bde05be95691c48b1bb3cce6d75b02d0c3b9582f30"
 
 [[files]]
-file = "mods/RoughlyEnoughItems-8.1.457.jar"
-hash = "1702f409482e607f68512303e522ad34ea6c31d4d149fc28983343cf62602e4e"
+file = "mods/RoughlyEnoughItems-8.2.463.jar"
+hash = "b2638d8779d86c1db5db6278a47c671d4f167cf38cd5285436f122c97b452979"
 
 [[files]]
 file = "mods/TechReborn-5.2.0-beta.3.jar"
@@ -56,8 +56,8 @@ hash = "edc94279518287b91bdb7bde1aeab818f674016747c23d9271516196f9937ab6"
 metafile = true
 
 [[files]]
-file = "mods/architectury-4.4.60.jar"
-hash = "b34da3320ea68ee79c0be95f677aef6a600611c5a07138406d21c646063dc402"
+file = "mods/architectury-4.4.61.jar"
+hash = "88c9a597369d6482de80fc62d3596b37835ea65c7f3eadacb4c11c44fa68de74"
 
 [[files]]
 file = "mods/auth-me.toml"
