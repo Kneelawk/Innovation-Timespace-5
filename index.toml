@@ -26,6 +26,14 @@ file = "mods/TechReborn-5.2.0-beta.3.jar"
 hash = "7c5080d763ce439df10a9c5b5963a5b5043bbaadfd7ec5d169aa2de89b56639f"
 
 [[files]]
+file = "mods/XaerosWorldMap_1.22.0_Fabric_1.18.2.jar"
+hash = "d56ee1b9b295202d482d32996668d64f1911403fca73e029de4a533aa19593b4"
+
+[[files]]
+file = "mods/Xaeros_Minimap_22.8.2_Fabric_1.18.2.jar"
+hash = "3fcb20aee754355b112cc81608714e45cab155cc1f2e361f0cba4e3f3a4a694b"
+
+[[files]]
 file = "mods/adorn.toml"
 hash = "7e422c621e6073b5e083ebe2e76a8b493530a2902d9f5d94139f45710de35a3b"
 metafile = true
@@ -59,10 +67,6 @@ metafile = true
 file = "mods/arch-ex.pw.toml"
 hash = "96436812c83bc9a98e55b73132d8bca99e14415013ed78519966a3c03ddd4918"
 metafile = true
-
-[[files]]
-file = "mods/architectury-4.4.61.jar"
-hash = "88c9a597369d6482de80fc62d3596b37835ea65c7f3eadacb4c11c44fa68de74"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
