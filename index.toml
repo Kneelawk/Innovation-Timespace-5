@@ -471,6 +471,11 @@ hash = "d37d94c0b811172ed94349ef2cbc1cf6a6cab84dd16e0822245d39f98b6c98ce"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "9e590da7d06921717bda0771fc998415bb40fbd40759e1a0f189ba2314f96631"
+metafile = true
+
+[[files]]
 file = "mods/universal_ores.toml"
 hash = "da11025ea5d5da4606c1932a090e17b6bc98a4e74d912256d48709a3103a70db"
 metafile = true
