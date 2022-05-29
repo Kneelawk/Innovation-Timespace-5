@@ -3,12 +3,10 @@ filename = "repurposed_structures_fabric-4.1.9+1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.9+1.18.2/repurposed_structures_fabric-4.1.9%2B1.18.2.jar"
 hash-format = "sha1"
 hash = "8afda55dc7faa470d1bafe646bb7ca342f4711ed"
-mode = ""
+url = "https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.9+1.18.2/repurposed_structures_fabric-4.1.9%2B1.18.2.jar"
 
-[update]
 [update.modrinth]
 mod-id = "muf0XoRe"
 version = "vviXPWRq"

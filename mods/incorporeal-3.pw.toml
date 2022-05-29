@@ -1,14 +1,14 @@
 name = "Incorporeal 3"
-filename = "Incorporeal-3-fabric-1.18.2-1-SNAPSHOT-a4b7bb72.jar"
+filename = "Incorporeal-3-fabric-1.18.2-2-SNAPSHOT-894c974c.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tA5dpqNv/versions/1-prealpha-fabric-1.18.2/Incorporeal-3-fabric-1.18.2-1-SNAPSHOT-a4b7bb72.jar"
+url = "https://cdn.modrinth.com/data/tA5dpqNv/versions/2-fabric-1.18.2/Incorporeal-3-fabric-1.18.2-2-SNAPSHOT-894c974c.jar"
 hash-format = "sha1"
-hash = "68834f972a7a89e26e3e768f669d5633c25ace9d"
+hash = "43f859a016ba0c28c61b284b4ba83c467d9ea66f"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "tA5dpqNv"
-version = "4wD0FLZA"
+version = "Uzc6uX4r"
