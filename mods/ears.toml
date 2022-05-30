@@ -3,9 +3,10 @@ filename = "ears-fabric-1.17-1.4.5_01.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/mfzaZK3Z/versions/1.4.5_01+fabric-1.17.01/ears-fabric-1.17-1.4.5_01.jar"
 hash-format = "sha1"
 hash = "d23a54ec68240b81666aa444bdbf08cd6f0152f3"
-url = "https://cdn.modrinth.com/data/mfzaZK3Z/versions/1.4.5_01+fabric-1.17.01/ears-fabric-1.17-1.4.5_01.jar"
+mode = ""
 
 [update.modrinth]
 mod-id = "mfzaZK3Z"

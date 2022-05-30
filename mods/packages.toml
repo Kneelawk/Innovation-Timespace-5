@@ -3,9 +3,10 @@ filename = "packages-1.4.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/10DZYVis/versions/1.4/packages-1.4.jar"
 hash-format = "sha1"
 hash = "43c885198a440498ecd61adc6c488678d5709884"
-url = "https://cdn.modrinth.com/data/10DZYVis/versions/1.4/packages-1.4.jar"
+mode = ""
 
 [update.modrinth]
 mod-id = "10DZYVis"

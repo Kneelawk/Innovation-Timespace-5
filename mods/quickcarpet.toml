@@ -3,9 +3,10 @@ filename = "quickcarpet-3.4.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/dqrpBD4O/versions/3.4.0/quickcarpet-3.4.0.jar"
 hash-format = "sha1"
 hash = "9bfc9e253ccd37b8601080fb3852a9b63e0b8795"
-url = "https://cdn.modrinth.com/data/dqrpBD4O/versions/3.4.0/quickcarpet-3.4.0.jar"
+mode = ""
 
 [update.modrinth]
 mod-id = "dqrpBD4O"

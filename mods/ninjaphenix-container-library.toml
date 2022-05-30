@@ -3,9 +3,10 @@ filename = "ellemes-container-library-1.4.0-beta.2+1.18.2-quilt.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/TIhTvPdy/versions/1.4.0-beta.2+quilt/ellemes-container-library-1.4.0-beta.2%2B1.18.2-quilt.jar"
 hash-format = "sha1"
 hash = "461b291a2a1072dc9e9ede616110d9e1d93364fa"
-url = "https://cdn.modrinth.com/data/TIhTvPdy/versions/1.4.0-beta.2+quilt/ellemes-container-library-1.4.0-beta.2%2B1.18.2-quilt.jar"
+mode = ""
 
 [update.modrinth]
 mod-id = "TIhTvPdy"

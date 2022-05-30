@@ -3,9 +3,10 @@ filename = "conveyor-belts-1.7.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/WjHeCvm0/versions/1.7/conveyor-belts-1.7.jar"
 hash-format = "sha1"
 hash = "0ac19fe6118fe36368942adefa07f7c4ce57493f"
-url = "https://cdn.modrinth.com/data/WjHeCvm0/versions/1.7/conveyor-belts-1.7.jar"
+mode = ""
 
 [update.modrinth]
 mod-id = "WjHeCvm0"
