@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "57529e133f0d2d161e77922142b65c0a0302923d3a941bee01cb4adb6cdf3696"
+hash = "551744ac87a0351a1034c8de38070f3141f639adf84fd2215f28d291b2e4dbe6"
 metafile = true
 
 [[files]]
@@ -106,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/can-you-trash-it.toml"
 hash = "abffd8ae0b97e42e2f5f78db92baeb45207bb196ffb57e13d267485bb977b674"
+metafile = true
+
+[[files]]
+file = "mods/cats-expanded.pw.toml"
+hash = "9f6375854f8ef38ef7fe1deb5a7b33d1a2a610c60c2da5ce3f9d953473720497"
 metafile = true
 
 [[files]]
@@ -278,7 +283,7 @@ hash = "2ca9b37c236b451ef7c4ad8befdcfab2d8c98a4b8b41a4ce6a3764ab311b4d7f"
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "0579e0821015becd7f90150f75af822d17c413ad097a4cc45f49b9b5dac9792a"
+hash = "822a9c97e55ea0b9ea13b2776e0ad231a673bb8262388986bc3e89b17dbbb8e1"
 metafile = true
 
 [[files]]
@@ -402,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.toml"
-hash = "7aaac03f9bbcf88c4d3bf4286780c0ad3976d73e7474b7bbfe7bf5dfa1776765"
+hash = "1b8646c09f572f1b71bf5c77a8e12f0b7f17b82ea2b877ed3c0a39a9fba0984e"
 metafile = true
 
 [[files]]
@@ -417,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/redstone-bits.toml"
-hash = "24a3b70205d1be53f714902c72336b5207f9a846d48071b8ad31e6750c2f6f9f"
+hash = "974bb65c823e62caae49338b3519fc390c0c414779c66134dbdf0b839cfb09e2"
 metafile = true
 
 [[files]]

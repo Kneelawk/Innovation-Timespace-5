@@ -1,13 +1,14 @@
 name = "Redstone Bits"
-filename = "redstone-bits-1.8.1+fabric-mc1.18.2.jar"
+filename = "redstone-bits-1.8.2+fabric-mc1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4RK1aHVB/versions/1.8.1/redstone-bits-1.8.1%2Bfabric-mc1.18.2.jar"
+url = "https://cdn.modrinth.com/data/4RK1aHVB/versions/1.8.2/redstone-bits-1.8.2%2Bfabric-mc1.18.2.jar"
 hash-format = "sha1"
-hash = "8b0653659f60e57a014a72fb870ce5d3a21fa58e"
+hash = "aedf35672595e937ff1b580b6b70ef891d1e5ad0"
 mode = ""
 
+[update]
 [update.modrinth]
 mod-id = "4RK1aHVB"
-version = "IlRlOcdP"
+version = "MSMSX3im"
