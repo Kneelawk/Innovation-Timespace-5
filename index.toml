@@ -119,6 +119,11 @@ hash = "5323326a44f25eea203ba38c6207ce5fbab47e200659a433b1a344268839486a"
 metafile = true
 
 [[files]]
+file = "mods/charm.pw.toml"
+hash = "867474a18b242c6f2b3373e0fb1c90fcbcf28c4c77a29ac5b5975d83af13e606"
+metafile = true
+
+[[files]]
 file = "mods/chromatic-currents.toml"
 hash = "728ae9dcc6f54cdd6ab46a68130b113e863fdfe9a5b4aa68b0b13ccdc12c4483"
 metafile = true
