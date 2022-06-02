@@ -259,8 +259,8 @@ hash = "a5241e28fee4d376166adada864f1053309a36c87dd56e01d36ba8d668c8a6f0"
 metafile = true
 
 [[files]]
-file = "mods/geckolib-fabric-1.18-3.0.42.jar"
-hash = "23cc102a2a248cfa6fa91cf4d77e1057973c20e895c826026df31bc91cf3a1e9"
+file = "mods/geckolib-quilt-1.18-3.0.6.jar"
+hash = "41ebc44ac76138e0ecf2a9a400cb2ef56450bf970212839aae64e2b8e5fa2567"
 
 [[files]]
 file = "mods/goml-reserved.toml"
