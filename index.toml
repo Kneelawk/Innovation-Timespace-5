@@ -22,8 +22,8 @@ file = "mods/RoughlyEnoughItems-8.2.470.jar"
 hash = "ed85bbbd4588b708b03df400f7e4b950426b7d14ead15a6f8b55e60a91a711b9"
 
 [[files]]
-file = "mods/TechReborn-5.2.0-beta.3.jar"
-hash = "7c5080d763ce439df10a9c5b5963a5b5043bbaadfd7ec5d169aa2de89b56639f"
+file = "mods/TechReborn-5.2.0.jar"
+hash = "2891dc3afad7a1502cb1e72f18db34b150b1545adf83990419a6e429aadae295"
 
 [[files]]
 file = "mods/XaerosWorldMap_1.23.1_Fabric_1.18.2.jar"
