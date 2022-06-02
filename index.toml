@@ -18,8 +18,8 @@ file = "mods/Botania-1.18.2-433-FABRIC-SNAPSHOT.jar"
 hash = "cceb19e88851784eb45430eb749356109afb79d5c9923bfa0f9459034555ea03"
 
 [[files]]
-file = "mods/RoughlyEnoughItems-8.2.463.jar"
-hash = "b2638d8779d86c1db5db6278a47c671d4f167cf38cd5285436f122c97b452979"
+file = "mods/RoughlyEnoughItems-8.2.470.jar"
+hash = "ed85bbbd4588b708b03df400f7e4b950426b7d14ead15a6f8b55e60a91a711b9"
 
 [[files]]
 file = "mods/TechReborn-5.2.0-beta.3.jar"
