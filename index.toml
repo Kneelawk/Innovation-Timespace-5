@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE"
-hash = "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331"
+hash = "a66cc080f0bbdf2c47c356b7b0b4f93502d549348374d7ae4503a226cc3ff29a"
 
 [[files]]
 file = "README.md"
@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "551744ac87a0351a1034c8de38070f3141f639adf84fd2215f28d291b2e4dbe6"
+hash = "0b15454a1aee8999dda4613fb29dbd252aa592d7fb5b70026b4c0cf3f5fcb66b"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/cats-expanded.pw.toml"
-hash = "9f6375854f8ef38ef7fe1deb5a7b33d1a2a610c60c2da5ce3f9d953473720497"
+hash = "2a0fe0584bd077baf8338385fff12a9e49b4309749fdb4dd4ea387b9d96ddf09"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/decorative.pw.toml"
-hash = "ea0c1b5c5ec31ee5028e02cc757935ffb188f7c66d5497c9c025b98f9a0c2d72"
+hash = "748f4338f987c3cdbd67a5992723bf3f702bd90dd1d99704feddcf6e82d2a604"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ hash = "2ca9b37c236b451ef7c4ad8befdcfab2d8c98a4b8b41a4ce6a3764ab311b4d7f"
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "822a9c97e55ea0b9ea13b2776e0ad231a673bb8262388986bc3e89b17dbbb8e1"
+hash = "2c1b1023865c19ffe362fc2b5f20fabe507ecaae94333b74a7efcb1d37a279e8"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.toml"
-hash = "1b8646c09f572f1b71bf5c77a8e12f0b7f17b82ea2b877ed3c0a39a9fba0984e"
+hash = "fa5833e590f4a63cf6633c866b97ae152d1e11c71294af4ba636ba6d00fb51a6"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/redstone-bits.toml"
-hash = "974bb65c823e62caae49338b3519fc390c0c414779c66134dbdf0b839cfb09e2"
+hash = "be7797270064bc880129d6a214152cbb57cf2b04d1498dc1b320e8997e452966"
 metafile = true
 
 [[files]]
