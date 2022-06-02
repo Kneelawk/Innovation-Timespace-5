@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.toml"
-hash = "18d80e1a8b7bc69dcc64162e95b876dbc6479d98e290463fde3683e7795bdd01"
+hash = "8c217816f3552d94613a9247bb52cb4d50b1819a65880f11c3393678a2c89bba"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "8fe69989c5479857d920374db6aee089afa4e2235d427ae1c24707ef0e466f06"
+hash = "1b43e060001632b6827a9cbf49d03278721508cd2f960e9958f3fb24ced6ebcb"
 metafile = true
 
 [[files]]
