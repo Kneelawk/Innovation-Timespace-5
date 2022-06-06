@@ -209,13 +209,18 @@ hash = "4383fed76ae2ef2548d4b2cbe05987d7fe077fbe810e168a4633bb261e606fd2"
 metafile = true
 
 [[files]]
+file = "mods/ellemes-container-library.pw.toml"
+hash = "72ebb4b9ef432be4dc069c3446478aedfcfa9e51ad45821658718d3de585f2af"
+metafile = true
+
+[[files]]
 file = "mods/essential-commands.toml"
 hash = "9088473ae40ac732ba2fe4086418ddb0af846688ff7cff941d02373a26e5dd15"
 metafile = true
 
 [[files]]
-file = "mods/expanded-storage.toml"
-hash = "03db6da0d21f4c781d20c0c2457b8126db1ddf8d605401797299247a81cad685"
+file = "mods/expanded-storage.pw.toml"
+hash = "ff964e78acee9dbe03804c292c2f28391e89e578ff88c19618be2d695bf80ad6"
 metafile = true
 
 [[files]]
@@ -358,11 +363,6 @@ metafile = true
 [[files]]
 file = "mods/nikolite-expansion.toml"
 hash = "c58e20c1b2138e34497a4dcd55634af383370fc5baf4f2a611af9a3cc242dbef"
-metafile = true
-
-[[files]]
-file = "mods/ninjaphenix-container-library.toml"
-hash = "302ef30c2f2a422abf9f11aee05dda542aae844e7fdbee8a597beb2c8b2c7bcc"
 metafile = true
 
 [[files]]
