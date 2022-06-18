@@ -461,6 +461,11 @@ hash = "d4f5e10c245a85cf26905690401043be3b9d57f17292c1b1ad8f5c0e0d06a692"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "dd3572a0414b6d647f18d4571a8007f0f93ebd7092d08aefa194861878a42c6f"
+metafile = true
+
+[[files]]
 file = "mods/sodium.toml"
 hash = "01b5ef5f43bacdc1f9e764b313267d3db93871394e8db0b91dbf9552fe5c7804"
 metafile = true
@@ -501,6 +506,11 @@ metafile = true
 [[files]]
 file = "mods/uselessthings.toml"
 hash = "ccc4668794d4767490391fcfa92ea42bf764cc77c489179cf693121801ef3f68"
+metafile = true
+
+[[files]]
+file = "mods/valleycraft.pw.toml"
+hash = "b3bdf602575e58c3f7c65b87209a33e0d583ffda31da9839bde9ca7f67106461"
 metafile = true
 
 [[files]]
