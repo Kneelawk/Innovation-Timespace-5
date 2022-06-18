@@ -26,12 +26,12 @@ file = "mods/TechReborn-5.2.0.jar"
 hash = "2891dc3afad7a1502cb1e72f18db34b150b1545adf83990419a6e429aadae295"
 
 [[files]]
-file = "mods/XaerosWorldMap_1.23.1_Fabric_1.18.2.jar"
-hash = "f976e2b354205362572234798342ce9b94bf0736be0915b84bdf6f969549f5de"
+file = "mods/XaerosWorldMap_1.23.3_Fabric_1.18.2.jar"
+hash = "ee9e1058806c3905ef0a3d781f751e993bb9508cc98ce56053a0f8bf2cf586e8"
 
 [[files]]
-file = "mods/Xaeros_Minimap_22.9.0_Fabric_1.18.2.jar"
-hash = "d715d79aa1d9af3cf3e8b74082f81827659072bfd2a8340963cbbab7b7e2b1db"
+file = "mods/Xaeros_Minimap_22.9.3_Fabric_1.18.2.jar"
+hash = "f9ee3f0b54075e886661e20fe00dd19009bbd734847ec1f6f05fd1afd10df665"
 
 [[files]]
 file = "mods/adorn.toml"
