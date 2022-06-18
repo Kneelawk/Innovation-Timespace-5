@@ -119,11 +119,6 @@ hash = "5323326a44f25eea203ba38c6207ce5fbab47e200659a433b1a344268839486a"
 metafile = true
 
 [[files]]
-file = "mods/charm.pw.toml"
-hash = "865086a8214362cee9671154ed0cdc7eb22cc06d1a95b848bf991007d09ba0e1"
-metafile = true
-
-[[files]]
 file = "mods/chromatic-currents.toml"
 hash = "728ae9dcc6f54cdd6ab46a68130b113e863fdfe9a5b4aa68b0b13ccdc12c4483"
 metafile = true
@@ -269,8 +264,8 @@ hash = "d09a72ffe74ebbe97640cd3c2007736f8a8778497d0a099d96dd5bee0c0f9b49"
 metafile = true
 
 [[files]]
-file = "mods/geckolib-quilt-1.18-3.0.6.jar"
-hash = "41ebc44ac76138e0ecf2a9a400cb2ef56450bf970212839aae64e2b8e5fa2567"
+file = "mods/geckolib-fabric-1.18-3.0.47.jar"
+hash = "cbf297afe3d8ff2232935d8c5205f1f5a5c095709ab1a2d992a93795d0292a5e"
 
 [[files]]
 file = "mods/goml-reserved.toml"
