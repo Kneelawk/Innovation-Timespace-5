@@ -1,13 +1,14 @@
 name = "Blossom"
-filename = "blossom-1.18.2-1.0.4.jar"
+filename = "blossom-fabric-1.18.2-1.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iYVih5qu/versions/1.0.4/blossom-1.18.2-1.0.4.jar"
+url = "https://cdn.modrinth.com/data/iYVih5qu/versions/Fabric-1.18.2-1.0.5/blossom-fabric-1.18.2-1.0.5.jar"
 hash-format = "sha1"
-hash = "6f6abddca35676717c7279df3f5602da5706999a"
+hash = "2601bfce6a354cb560a8695588379447e1452178"
 mode = ""
 
+[update]
 [update.modrinth]
 mod-id = "iYVih5qu"
-version = "Vv5gJ9jD"
+version = "WJnvCrQY"
