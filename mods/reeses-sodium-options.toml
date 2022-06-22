@@ -8,7 +8,6 @@ hash-format = "sha1"
 hash = "c39e06ad0bff8891046d80fb4c63fddfbe2d5bc4"
 mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "Bh37bMuy"
 version = "iQMF2ssl"

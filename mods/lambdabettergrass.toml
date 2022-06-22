@@ -8,7 +8,6 @@ hash-format = "sha1"
 hash = "941e27f095bd4a355ebf6f71212f378d4d7d5dca"
 mode = ""
 
-[update]
 [update.modrinth]
 mod-id = "2Uev7LdA"
 version = "LpLEGUBZ"
