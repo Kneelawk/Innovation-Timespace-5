@@ -14,8 +14,8 @@ hash = "33f7f07ca95861fb6615e5101dc54368fd6e4144b6055170e2aad6a00020b650"
 preserve = true
 
 [[files]]
-file = "mods/Botania-1.18.2-433-FABRIC-SNAPSHOT.jar"
-hash = "cceb19e88851784eb45430eb749356109afb79d5c9923bfa0f9459034555ea03"
+file = "mods/Botania-1.18.2-434-FABRIC-SNAPSHOT.jar"
+hash = "a6867684b318ff089dc18375069674fc4f49474c1d4f4d4b2d43accdbce098b7"
 
 [[files]]
 file = "mods/RoughlyEnoughItems-8.2.470.jar"
