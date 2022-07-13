@@ -274,6 +274,10 @@ hash = "c4ff3df2e8d0af1addfa19f25739144e8d3c18204683294e78f18ccfbaea87f9"
 metafile = true
 
 [[files]]
+file = "mods/guard-villagers-fabric-1.18.2-1.0.14.jar"
+hash = "366ee6ece4cc980fb61ab3c5c0acabe9a617199d6c74edc1c71d80450faeeaf8"
+
+[[files]]
 file = "mods/incorporeal-3.pw.toml"
 hash = "b2b05a5a95aa2039b183177ab086f1d5e36506ca83be68c8b3d88270743a45fd"
 metafile = true
@@ -344,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/mo-structures.toml"
 hash = "8a44e085c95e4f48bdb829883d42e6295626472ddf57a3b1048a3e3e331afca7"
+metafile = true
+
+[[files]]
+file = "mods/modern-dynamics.pw.toml"
+hash = "4784e46f9a7869f1ae3526e6f48c85514826895e9d2ca8b53171f12e248781da"
 metafile = true
 
 [[files]]
