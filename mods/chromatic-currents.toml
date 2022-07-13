@@ -1,13 +1,13 @@
 name = "Chromatic Currents"
-filename = "chromatic-currents-1.0.1.jar"
+filename = "chromatic-currents-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HmueZEES/versions/1.0.1/chromatic-currents-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/HmueZEES/versions/1.0.2/chromatic-currents-1.0.2.jar"
 hash-format = "sha1"
-hash = "4b31d07c6f2953e620c4c1055a5e306cad623c29"
-mode = ""
+hash = "0c3ba410396728800b6c03f20c75d2170df43b03"
 
+[update]
 [update.modrinth]
 mod-id = "HmueZEES"
-version = "EapQ8GNb"
+version = "uyjNqbFU"

@@ -1,13 +1,13 @@
 name = "You're in Grave Danger"
-filename = "youre-in-grave-danger-1.3.6.jar"
+filename = "youre-in-grave-danger-1.3.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HnD1GX6e/versions/1.3.6/youre-in-grave-danger-1.3.6.jar"
+url = "https://cdn.modrinth.com/data/HnD1GX6e/versions/1.3.7/youre-in-grave-danger-1.3.7.jar"
 hash-format = "sha1"
-hash = "8eaa2d3a90dc8a95c3d909586a4ffc750d6149a4"
-mode = ""
+hash = "27f7a47815eec529e7370d9ad84aec4cf76f172e"
 
+[update]
 [update.modrinth]
 mod-id = "HnD1GX6e"
-version = "PAmIlu8M"
+version = "nbFsmQLW"
