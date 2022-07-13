@@ -14,10 +14,6 @@ hash = "33f7f07ca95861fb6615e5101dc54368fd6e4144b6055170e2aad6a00020b650"
 preserve = true
 
 [[files]]
-file = "mods/Botania-1.18.2-434-FABRIC-SNAPSHOT.jar"
-hash = "a6867684b318ff089dc18375069674fc4f49474c1d4f4d4b2d43accdbce098b7"
-
-[[files]]
 file = "mods/RoughlyEnoughItems-8.3.510.jar"
 hash = "d4600588aed9e34600351178cca4b60174c26557f0a98da641bf6a49744b62fb"
 
@@ -101,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/blur-fabric.toml"
 hash = "594e133e2e5a93175f8c069cf61bff4da5df29877ea0739e5379539a6ff43b81"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "c2dc3701c79aad2fa278359d47c32d4e4a10c349b0fc06e8b7400dec9b48700c"
 metafile = true
 
 [[files]]
