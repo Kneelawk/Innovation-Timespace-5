@@ -14,6 +14,14 @@ hash = "33f7f07ca95861fb6615e5101dc54368fd6e4144b6055170e2aad6a00020b650"
 preserve = true
 
 [[files]]
+file = "mods/AdvancedReborn-1.18.2-1.0.6.jar"
+hash = "901fa5b4c4179202f28c36018d65c1a21ed13697a51e6d9111a02621e5f4112b"
+
+[[files]]
+file = "mods/GearReborn-1.18.2-0.1.14.jar"
+hash = "2f2fe2ced7d9c477f1f55f9343e858094e1aa4e2548cc98ad0a3956d687f9fb1"
+
+[[files]]
 file = "mods/RoughlyEnoughItems-8.3.510.jar"
 hash = "d4600588aed9e34600351178cca4b60174c26557f0a98da641bf6a49744b62fb"
 
@@ -419,6 +427,10 @@ metafile = true
 file = "mods/qsl.toml"
 hash = "ddce089a3dda8c452ebb65db91cb4a38a023698df6d8fc1c2f095d67740e40cb"
 metafile = true
+
+[[files]]
+file = "mods/quarry-reborn-1.18.2-0.7.3.jar"
+hash = "9103a71f6657c50002aae4bcdcb7c0921efaafb218010c7d78281a6e1344072a"
 
 [[files]]
 file = "mods/quickcarpet.toml"
