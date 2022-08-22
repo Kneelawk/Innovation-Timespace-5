@@ -1,13 +1,13 @@
 name = "slotlink"
-filename = "slotlink-4.3.2.jar"
+filename = "slotlink-4.3.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FTMcNdhv/versions/4.3.2/slotlink-4.3.2.jar"
+url = "https://cdn.modrinth.com/data/FTMcNdhv/versions/4.3.3/slotlink-4.3.3.jar"
 hash-format = "sha1"
-hash = "466afb9600d3cd6aa46ebe656127be39f7322d23"
+hash = "c83404578e51efe8c8d8a14e360b17fde80b3fe7"
 
 [update]
 [update.modrinth]
 mod-id = "FTMcNdhv"
-version = "IYjMma1x"
+version = "tWrXv4oy"
