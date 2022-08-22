@@ -1,0 +1,13 @@
+name = "Shelve Refabricated"
+filename = "ShelveRefabricated-0.0.3-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nisMQHJX/versions/0.0.3-1.18.2/ShelveRefabricated-0.0.3-1.18.2.jar"
+hash-format = "sha1"
+hash = "e13c32ddbb920a081deafbc3731769c1186fbd70"
+
+[update]
+[update.modrinth]
+mod-id = "nisMQHJX"
+version = "lerin8mV"

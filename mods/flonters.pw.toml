@@ -1,0 +1,13 @@
+name = "Flonters"
+filename = "Flonters-1.3.1+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/36iNFpQE/versions/1.3.1/Flonters-1.3.1%2B1.18.2.jar"
+hash-format = "sha1"
+hash = "19c11aeb8508e51bd9def8309a51adfa65b9d006"
+
+[update]
+[update.modrinth]
+mod-id = "36iNFpQE"
+version = "QTK1mkXa"

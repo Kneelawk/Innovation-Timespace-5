@@ -1,0 +1,13 @@
+name = "Extended bookshelves"
+filename = "extendedbookshelves-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BoxXR6F2/versions/2.0.1/extendedbookshelves-2.0.1.jar"
+hash-format = "sha1"
+hash = "14a40c7d253bc4e0e4917ee4762a8d85585a6f04"
+
+[update]
+[update.modrinth]
+mod-id = "BoxXR6F2"
+version = "aRRaVzMc"
