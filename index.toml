@@ -277,6 +277,11 @@ file = "mods/geckolib-fabric-1.18-3.0.47.jar"
 hash = "cbf297afe3d8ff2232935d8c5205f1f5a5c095709ab1a2d992a93795d0292a5e"
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "4816b7a487c205953c720e3f1e984e1542c0efd53294be53eacd583bfeeacc8b"
+metafile = true
+
+[[files]]
 file = "mods/goml-reserved.toml"
 hash = "c4ff3df2e8d0af1addfa19f25739144e8d3c18204683294e78f18ccfbaea87f9"
 metafile = true
@@ -460,6 +465,11 @@ metafile = true
 [[files]]
 file = "mods/right-click-harvest.toml"
 hash = "e48f986eae28a1106a7211d4a706ff0837a1e9a5fb767b607febf0815b386aed"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "6bbaa499cb0998b9bd0cf54b1d6e221d7dacd591b7cda58c3ad93b283538246b"
 metafile = true
 
 [[files]]
