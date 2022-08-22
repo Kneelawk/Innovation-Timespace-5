@@ -74,11 +74,6 @@ hash = "85c977e4c0b1183e17230521113a89819bd0b4893c15bd8c38230ea6b214ab64"
 metafile = true
 
 [[files]]
-file = "mods/arcanus.pw.toml"
-hash = "57e638d3a03d936fbb11cb5878292b3cc809b33351abd631a3fbe999ee8c5dea"
-metafile = true
-
-[[files]]
 file = "mods/arch-ex.pw.toml"
 hash = "e44d0ff0c823e9df28cebce2562ea9086677357531c79ec47dd804699a42569f"
 metafile = true
@@ -156,11 +151,6 @@ metafile = true
 [[files]]
 file = "mods/cc-restitched.toml"
 hash = "461309f22c2e31fea322541eb2fc572666956bb716e77191a06c0c9fc9f42e3a"
-metafile = true
-
-[[files]]
-file = "mods/charm.pw.toml"
-hash = "fbab64e61d911af4bff0d2f4e08583c3d6b3a1f0e8e3e8b576c1910f4807fe85"
 metafile = true
 
 [[files]]
@@ -281,11 +271,6 @@ metafile = true
 [[files]]
 file = "mods/essential-commands.toml"
 hash = "0f1e27a3a53ada655e1f86341b0101b176be6a5055b6582d5cd14bc1804fcfb5"
-metafile = true
-
-[[files]]
-file = "mods/expanded-delight.pw.toml"
-hash = "b6196b0778e20f4a802086f2a2f27b72f52650d9919d416151902e0f8ddc96d5"
 metafile = true
 
 [[files]]
@@ -540,6 +525,11 @@ hash = "2af5129fea93ba115b0652d130455a1df12819667c4be7e2eda731de81cf1176"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "0cb8d95f47ad4c1b470d9429cc86d37774d90034c8b76310bcbed7a5af3994b4"
+metafile = true
+
+[[files]]
 file = "mods/portal-cubed.toml"
 hash = "e1a426ec2213ada4bde36ea2878dc85983d5cd1e620a8b99d704ae7ef230e5dc"
 metafile = true
@@ -684,11 +674,6 @@ metafile = true
 [[files]]
 file = "mods/traverse.pw.toml"
 hash = "0c6210b484a7023d09b3d82155d556935fa752341f0dae1dda9ae51d1c8503e3"
-metafile = true
-
-[[files]]
-file = "mods/trufflez-arcanum.pw.toml"
-hash = "0109b180b72fdb5141e899a99e462f46213a2bfd9dc9e6909101adc53a91d83c"
 metafile = true
 
 [[files]]
